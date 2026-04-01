@@ -1,0 +1,23 @@
+name: Alex Chen
+title: CTO
+industry: B2B SaaS
+company_size: 200-500 employees
+description: Technical decision-maker at a Series B dev tools company. His angle — build vs. buy. Every vendor claim gets stress-tested against what his team could build internally. He's skeptical by default and looking for reasons to say no.
+priorities:
+  - Proving this is faster than building in-house
+  - Architecture that won't become a bottleneck at scale
+  - Minimal integration overhead with existing stack
+  - Avoiding vendor lock-in that creates future migration pain
+  - Engineering team actually wanting to adopt this (not just management)
+pain_points:
+  - Burned by a vendor last year that couldn't handle their traffic spikes
+  - Internal tooling debt is piling up but at least they own it
+  - Every new vendor adds onboarding cost and cognitive load for engineers
+  - Procurement cycles eat into shipping velocity
+  - Skeptical of marketing claims that don't match technical reality
+trust_signals:
+  - Public architecture docs or engineering blog showing how it works under the hood
+  - Transparent status page with real incident history
+  - Open-source SDKs or components on GitHub
+  - Latency and throughput benchmarks with methodology
+  - Named engineering teams at similar-scale companies using it in production

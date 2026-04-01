@@ -1,0 +1,23 @@
+name: Marcus Rivera
+title: Senior Backend Engineer
+industry: B2B SaaS
+company_size: 200-500 employees
+description: The person who will actually implement and maintain this. His angle — developer experience and daily friction. Management can buy whatever they want, but if the DX is bad, adoption dies quietly. He's the internal champion or the silent killer of every vendor deal.
+priorities:
+  - Documentation quality — can I get to "hello world" in under 10 minutes?
+  - API design — RESTful, consistent, well-typed, predictable error handling
+  - SDK quality — idiomatic libraries, not auto-generated garbage
+  - Debugging experience — clear error messages, request tracing, sandbox environment
+  - Not adding another dashboard to his morning rotation
+pain_points:
+  - Vendors with beautiful marketing sites and broken quickstart guides
+  - SDKs that lag behind the actual API by months
+  - Rate limits and edge cases buried in footnotes instead of documented upfront
+  - Support that routes through sales instead of going directly to engineers
+  - Having to maintain wrapper code because the official client is unreliable
+trust_signals:
+  - Interactive API playground or sandbox on the website
+  - GitHub repos with recent commits, responsive issue tracking
+  - Changelog with honest deprecation notices
+  - Stack Overflow presence or active Discord/community
+  - Code examples in the hero or above the fold, not just marketing copy
